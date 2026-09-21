@@ -20,10 +20,10 @@
 - [x] Sitio completo servido localmente y revisado en navegador.
 - [x] Validación del nombre antes de mostrar éxito.
 - [x] Repositorio GitHub creado y primera versión subida.
-- [ ] Cambio final de WhatsApp subido: pendiente de primer despliegue para demostrar el flujo continuo.
-- [ ] Proyecto importado y desplegado en Vercel: pendiente de autorización de cuenta.
-- [ ] HTTPS público verificado: pendiente de despliegue.
+- [x] Cambio final de WhatsApp subido a la cuenta adrianalizeth-dev.
+- [x] Proyecto desplegado en Vercel por CLI en adrianalizeth-5464. Integración Git pendiente de autorización adicional.
+- [x] HTTPS público verificado: https://ferreteria-el-tornillo-nu.vercel.app (HTTP 200 y WhatsApp presente).
 - [x] Guía de historial y rollback incluida en README.
 - [ ] Nuevo push reflejado automáticamente en URL pública: pendiente de integración Vercel.
 
-Repositorio: https://github.com/cristiankaipa/ferreteria-el-tornillo
+Repositorio: https://github.com/adrianalizeth-dev/ferreteria-el-tornillo

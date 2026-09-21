@@ -1,0 +1,29 @@
+# Verificación del taller
+
+## Resultado local
+- HTML, CSS y JavaScript sin frameworks, backend ni base de datos.
+- Inicio, productos y contacto presentes. Cuatro tarjetas con las categorías solicitadas.
+- Horario y ubicación coinciden con el PDF.
+- WhatsApp 300 123 4567 debajo del horario, con enlace a `https://wa.me/573001234567`.
+- Formulario probado en navegador: nombre vacío, un carácter y solo espacios muestran aviso; Ana y un mensaje válido muestran éxito de demostración.
+- El formulario no envía ni almacena datos; utiliza textContent para mostrar el nombre.
+- Revisión visual de escritorio y celular. En la vista móvil, ancho del documento y contenido: 375 px; sin desbordamiento horizontal.
+- JavaScript pasó la comprobación de sintaxis.
+
+![Escritorio](evidencias/escritorio.png)
+![Celular](evidencias/movil.png)
+
+## Checklist del PDF
+- [x] Prompt con contexto, objetivo, restricciones y criterio de aceptación: README.
+- [ ] Generación con Antigravity: se realizó con Codex; no se afirma cumplimiento literal.
+- [x] Walkthrough con capturas del navegador.
+- [x] Sitio completo servido localmente y revisado en navegador.
+- [x] Validación del nombre antes de mostrar éxito.
+- [x] Repositorio GitHub creado y primera versión subida.
+- [ ] Cambio final de WhatsApp subido: pendiente de primer despliegue para demostrar el flujo continuo.
+- [ ] Proyecto importado y desplegado en Vercel: pendiente de autorización de cuenta.
+- [ ] HTTPS público verificado: pendiente de despliegue.
+- [x] Guía de historial y rollback incluida en README.
+- [ ] Nuevo push reflejado automáticamente en URL pública: pendiente de integración Vercel.
+
+Repositorio: https://github.com/cristiankaipa/ferreteria-el-tornillo
